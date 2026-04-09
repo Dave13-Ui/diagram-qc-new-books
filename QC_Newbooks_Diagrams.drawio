@@ -89,6 +89,14 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="TK5WGSGjsCoQPL5X-_lv-15" edge="1" parent="1" source="TK5WGSGjsCoQPL5X-_lv-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="TK5WGSGjsCoQPL5X-_lv-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TK5WGSGjsCoQPL5X-_lv-16" connectable="0" parent="TK5WGSGjsCoQPL5X-_lv-15" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Yes" vertex="1">
+          <mxGeometry relative="1" y="-2" as="geometry">
+            <mxPoint x="-6" y="-2" as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="TK5WGSGjsCoQPL5X-_lv-5" parent="1" style="shape=rhombus;html=1;dashed=0;whiteSpace=wrap;perimeter=rhombusPerimeter;" value="&lt;font style=&quot;color: rgb(255, 51, 51);&quot;&gt;Do Total Debits Equal Total Credits?&amp;nbsp;&lt;/font&gt;" vertex="1">
           <mxGeometry height="130" width="160" x="780" y="-490" as="geometry" />
         </mxCell>
@@ -103,6 +111,9 @@
         </mxCell>
         <mxCell id="TK5WGSGjsCoQPL5X-_lv-8" parent="1" style="html=1;dashed=1;whiteSpace=wrap;dashPattern=8 8;" value="Error: Out of Balance" vertex="1">
           <mxGeometry height="50" width="127.5" x="796.25" y="-310" as="geometry" />
+        </mxCell>
+        <mxCell id="TK5WGSGjsCoQPL5X-_lv-12" parent="1" style="html=1;dashed=0;whiteSpace=wrap;" value="&lt;font style=&quot;color: rgb(255, 51, 51);&quot;&gt;Save entry to Database&amp;nbsp;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="50" width="150" x="990" y="-450" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
